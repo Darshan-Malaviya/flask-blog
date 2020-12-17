@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "blog_name":"Darshan Malaviya",
+        "sub_heading":"Hacker, Programmer",
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/db_blog",
+        "prod_uri":"mysql://root:@localhost/db_blog",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com/",
+        "gh_url":"https://kalakunjmandir.com/",
+        "gmail-user":"darshanmalaviya002@gmail.com",
+        "gmail-password":"Darshan@@2580",
+        "about_me":"hey guys i am darshan malaviya.",
+        "no_posts":3,
+        "login_img":"login.svg",
+        "admin_user":"admin",
+        "admin_password":"admin",
+        "uploader_location":"F:\\mysite\\first blog\\static"
+    }
+}
